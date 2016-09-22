@@ -1,8 +1,8 @@
-Name:
+Name: Mary Silva
 
-Compilation and Run Successful:
+Compilation and Run Successful: The MainActivityTest.java program compiled and ran with no errors.
 
-Unit Test Run Successfully:
+Unit Test Run Successfully: The ExampleUnitTest.java program also comiled and ran with no errors.
 
 # Project 1 - CSC 413 Spring 2016
 ###DUE Friday, September 23 by 5:00 PM
